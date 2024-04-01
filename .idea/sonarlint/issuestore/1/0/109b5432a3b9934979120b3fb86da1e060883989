@@ -1,0 +1,6 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õÀ³£ùÿÿÿÿ8áŞÎìÏ1
+h
+java:S2259&"F"NullPointerException" will be thrown when invoking method "result()".(Ü ùËúÿÿÿÿ8ïŞÎìÏ1
+R
+java:S1144H"0Remove this unused private "middleNode2" method.(¿ğ‹Óùÿÿÿÿ8úŞÎìÏ1
