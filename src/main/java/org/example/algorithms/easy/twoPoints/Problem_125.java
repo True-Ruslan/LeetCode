@@ -1,4 +1,4 @@
-package org.example.algorithms.easy;
+package org.example.algorithms.easy.twoPoints;
 
 /**
  * 125. Правильный палиндром

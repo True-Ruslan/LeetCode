@@ -1,4 +1,4 @@
-package org.example.algorithms.medium;
+package org.example.algorithms.medium.twoPoints;
 
 /**
  * 167. Две суммы II — входной массив отсортирован
